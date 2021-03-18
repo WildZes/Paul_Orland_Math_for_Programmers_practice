@@ -1,1 +1,1 @@
-# Paul_Orland_Math_for_Programmers_practice
+# Repository for exercises from Math for Programmers book
